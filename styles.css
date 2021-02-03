@@ -75,3 +75,34 @@ nav span {
     margin: auto;
     width: 100%;
 }
+
+/* Store Section */
+
+.store {
+    height: 700px;
+    margin: auto;
+    width: 1000px;
+}
+
+.item {
+    padding: 5px;
+}
+
+.item img {
+    display: block;
+    height: 200px;
+    margin: 10px;
+}
+
+.item span {
+    display: block;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+
+/* Locations Section */
+
+.flex-container.locations {
+    padding-top: 5px;
+}
