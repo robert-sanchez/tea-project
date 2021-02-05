@@ -128,3 +128,16 @@ nav span {
     padding: 10px;
     width: 300px;
 }
+
+/* Contact Section */
+
+#contact {
+    height: 200px;
+}
+
+/* Footer Section */
+
+footer {
+    text-align: left;
+    padding-left: 20px;
+}
